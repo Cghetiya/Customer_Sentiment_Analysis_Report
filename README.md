@@ -1,5 +1,8 @@
 # Customer_Sentiment_Analysis_Report
 
+I used below dataset for my analysis.
+https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews?utm_source
+
 📄 Customer Sentiment Analysis on Amazon Product Reviews
 Objective
 The objective of this project is to perform a sentiment analysis on customer reviews of Amazon products to uncover key patterns, sentiments, and trends in user feedback. By analyzing the textual reviews and applying natural language processing (NLP) techniques, the project aims to extract actionable insights that can assist businesses in understanding consumer satisfaction and product performance.
